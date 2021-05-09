@@ -15,7 +15,7 @@ namespace RazorPagesLessons.Services
             {
                 new Employee()
                 {
-                    Id = 0, Name = "Eric", Email = "eric@example.com", Department = Dept.Management, PhotoPath = "avatar1.png"
+                    Id = 0, Name = "Eric", Email = "eric@example.com", Department = Dept.Management, PhotoPath = "avatar.png"
                 },
                 new Employee()
                 {
@@ -31,11 +31,11 @@ namespace RazorPagesLessons.Services
                 },
                 new Employee()
                 {
-                    Id = 4, Name = "Santa", Email = "santa@example.com", Department = Dept.Management
+                    Id = 4, Name = "Santa", Email = "santa@example.com", Department = Dept.Management, PhotoPath = "avatar5.png"
                 },
                 new Employee()
                 {
-                    Id = 5, Name = "Butters", Email = "butters@example.com", Department = Dept.Management, PhotoPath = "avatar6.png"
+                    Id = 5, Name = "Butters", Email = "butters@example.com", Department = Dept.Management
                 },
             };
         }
