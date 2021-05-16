@@ -143,3 +143,9 @@ body {
     border-right: 1px solid #dee2e6;
     border-left: 1px solid #dee2e6;
 }
+
+.cardTextLeftFloating {
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 20px;
+}
